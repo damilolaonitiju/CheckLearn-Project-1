@@ -113,10 +113,6 @@ body {
   max-height: 70vh;
 }
 
-.hero-inner {
-  margin-bottom: 100px;
-}
-
 .hero-text_wrapper {
   max-width: 540px;
   color: var(--primary-color);
