@@ -114,6 +114,7 @@ body {
 }
 
 
+
 .hero-text_wrapper {
   max-width: 540px;
   color: var(--primary-color);
@@ -241,7 +242,7 @@ body {
 
   .hero {
     min-height: 0;
-    padding: 0px 0px 50px;
+    padding: 60px 0px 50px;
     flex-direction: column-reverse;
     text-align: center;
   }
